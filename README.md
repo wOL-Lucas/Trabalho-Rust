@@ -1,5 +1,6 @@
 <div style="background-color: #000;">
   <img src="https://www.logo.wine/a/logo/Rust_(video_game)/Rust_(video_game)-Logo.wine.svg"></img>
+  <h3 align="center">Brincadeira kkkkkkkkkkk</h3>
   <img src="https://cdn.dribbble.com/users/241205/screenshots/16028848/media/c82f8350e4549e0d66b5612e7690e6b4.png?resize=1000x750&vertical=center"></img>
 </div>
 

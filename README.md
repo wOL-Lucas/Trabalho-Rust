@@ -1,3 +1,8 @@
+<div style="background-color: #000;">
+  <img src="https://www.logo.wine/a/logo/Rust_(video_game)/Rust_(video_game)-Logo.wine.svg"></img>
+  <img src="https://cdn.dribbble.com/users/241205/screenshots/16028848/media/c82f8350e4549e0d66b5612e7690e6b4.png?resize=1000x750&vertical=center"></img>
+</div>
+
 # História da Linguagem Rust
 
 Rust é uma linguagem de programação de sistemas que surgiu como uma solução para os desafios de escrever código seguro, concorrente e de alto desempenho. Desenvolvida pela Mozilla Research, Rust busca oferecer segurança de memória sem a necessidade de um coletor de lixo, e sua sintaxe é projetada para ser familiar para aqueles com experiência em C e C++.

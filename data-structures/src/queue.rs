@@ -30,4 +30,8 @@ impl<T> Queue<T> {
     pub fn len(&self) -> usize {
         self.elements.len()
     }
+
+    pub fn clear(&mut self) {
+        self.elements.clear();
+    }
 }
